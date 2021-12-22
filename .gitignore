@@ -1,0 +1,7 @@
+node_modules/
+
+# all zip files
+*.zip
+
+# env files
+.env
